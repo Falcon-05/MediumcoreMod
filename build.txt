@@ -1,0 +1,5 @@
+displayName = Soft Mediumcore
+author = Falcon05
+version = 1.0
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
