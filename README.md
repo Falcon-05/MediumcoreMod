@@ -1,4 +1,4 @@
-# MediumcoreMod
+# Soft Mediumcore
 This mod makes Classic & Journey players start with a consumable item that permanently activates a "Soft Mediumcore" mode upon use.
 They additionally spawn with an item that tells you whether the mode is on or not (useful for returning to a character after a long break).
 
