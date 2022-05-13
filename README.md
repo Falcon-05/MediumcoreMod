@@ -8,5 +8,5 @@ Have fun not getting softlocked because you died deep underground in Hardmode!
 
 If you accidentally activate the mode, you can cheat in a usually-unobtainable item that reverts you back to normal softcore.
 
-# KNOWN ISSUES:
+# Known Issues:
 * When Soft Mediumcore mode is enabled, the death screen doesn't display how much money you dropped
